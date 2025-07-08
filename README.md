@@ -1,4 +1,4 @@
-# Hangman Game with Streamlit 🎮
+# Hangman Game 🎮
 
 This is a Python-powered web version of the Hangman game using Streamlit.
 
